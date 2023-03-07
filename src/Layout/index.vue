@@ -5,6 +5,7 @@
   </div>
 </template>
 console.log(1111)
+console.log(222)
 <script>
 export default {
 
